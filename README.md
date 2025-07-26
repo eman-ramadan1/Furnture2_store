@@ -34,7 +34,7 @@ A modern and elegant e-commerce Flutter app for browsing and purchasing furnitur
 
 ## Home Page                   
 
-| ![Home](assets/appScreenshots/homePageScreen.png.png) 
+| ![Home](assets/appScreenshots/homePageScreen.png) 
 
 > 📝 Make sure your image paths (`assets/screens/...`) exist in your project.
 
